@@ -1,7 +1,4 @@
 # IPMP
 This repo is for weekly assignments given in IPMP program
 
-### Week 1
-
- - [x] Palindrome Number
- - [x] Move Zeroes
+### Week 1 - Basic Math and Arrays
