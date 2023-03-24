@@ -5,3 +5,4 @@ This repo is for weekly assignments given in IPMP program
 ### Week 2 - Arrays and Matrices
 ### Week 3 - Linked list
 ### Week 4 - Linked list (hard problems)
+### Week 5 - Binary Search
