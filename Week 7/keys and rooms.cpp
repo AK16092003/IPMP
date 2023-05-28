@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // bfs
     bool canVisitAllRooms(vector<vector<int>>& rooms) {
         int n = rooms.size();
         vector<int> visited(n , 0);
@@ -21,6 +22,7 @@ public:
                     visited[v] = 1;
                     q.push(v);
                     count++;
+                    if(count == n) return true;
                 }
             }
         }
