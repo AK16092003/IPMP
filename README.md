@@ -6,3 +6,4 @@ This repo is for weekly assignments given in IPMP program
 ### Week 3 - Linked list
 ### Week 4 - Linked list (hard problems)
 ### Week 5 - Binary Search
+### Week 7 - Graphs and trees
